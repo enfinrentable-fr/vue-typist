@@ -52,7 +52,7 @@
 
         mounted(){
 
-            if(process.client) this.addLetter();
+            this.addLetter();
 
         },
 
